@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopcars/static/css/main.008e93c8.css",
+    "main.js": "/shopcars/static/js/main.ef4d5631.js",
+    "static/js/453.0f4552a2.chunk.js": "/shopcars/static/js/453.0f4552a2.chunk.js",
+    "index.html": "/shopcars/index.html",
+    "main.008e93c8.css.map": "/shopcars/static/css/main.008e93c8.css.map",
+    "main.ef4d5631.js.map": "/shopcars/static/js/main.ef4d5631.js.map",
+    "453.0f4552a2.chunk.js.map": "/shopcars/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008e93c8.css",
+    "static/js/main.ef4d5631.js"
+  ]
+}
